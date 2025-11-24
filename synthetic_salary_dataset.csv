@@ -1,0 +1,501 @@
+Position,YearsExperience,EducationLevel,Industry,Location,Salary(PKR)
+NLP Engineer,2.8,PhD,Finance,Mumbai,1288000.0
+Machine Learning Engineer,12.3,Bachelors,Finance,Bangalore,1488000.0
+Computer Vision Engineer,4.8,Bachelors,Manufacturing,Remote,897000.0
+Machine Learning Engineer,1.7,Bachelors,IT,Delhi,676000.0
+MLOps Engineer,12.4,Masters,Healthcare,Chennai,2416000.0
+Computer Vision Engineer,9.5,PhD,Education,Remote,2083000.0
+Machine Learning Engineer,7.6,PhD,Healthcare,Remote,1891000.0
+NLP Engineer,6.7,Masters,Healthcare,Chennai,1361000.0
+Data Scientist,14.9,Masters,Healthcare,Remote,2803000.0
+Software Engineer,0.8,PhD,Education,Pune,814000.0
+Business Intelligence Analyst,3.6,Masters,IT,Pune,1108000.0
+Machine Learning Engineer,12.3,Masters,Healthcare,Chennai,2412000.0
+NLP Engineer,2.5,PhD,Education,Delhi,1063000.0
+NLP Engineer,2.9,Bachelors,Manufacturing,Hyderabad,812000.0
+NLP Engineer,1.5,Masters,Finance,Mumbai,875000.0
+Computer Vision Engineer,11.5,Bachelors,Finance,Chennai,1518000.0
+Data Scientist,10.7,PhD,IT,Pune,1701000.0
+AI Researcher,1.8,PhD,Healthcare,Bangalore,1098000.0
+Machine Learning Engineer,4.1,Masters,IT,Delhi,1148000.0
+MLOps Engineer,14.5,Bachelors,Healthcare,Remote,1706000.0
+Data Scientist,1.2,Bachelors,Retail,Mumbai,487000.0
+MLOps Engineer,10.7,PhD,Healthcare,Mumbai,2318000.0
+Machine Learning Engineer,3.8,Masters,IT,Chennai,909000.0
+Data Scientist,6.9,Bachelors,Manufacturing,Chennai,965000.0
+Big Data Engineer,12.1,Bachelors,Healthcare,Bangalore,1411000.0
+MLOps Engineer,12.4,PhD,Education,Hyderabad,2521000.0
+MLOps Engineer,4.4,PhD,IT,Pune,1285000.0
+Computer Vision Engineer,7.4,PhD,Retail,Hyderabad,1433000.0
+Computer Vision Engineer,9.0,Masters,Finance,Bangalore,1617000.0
+Data Analyst,11.3,PhD,Manufacturing,Pune,2109000.0
+MLOps Engineer,0.5,Masters,IT,Hyderabad,676000.0
+Computer Vision Engineer,11.0,Masters,Healthcare,Pune,1836000.0
+AI Researcher,3.4,Bachelors,Retail,Mumbai,782000.0
+MLOps Engineer,5.7,Bachelors,Retail,Bangalore,1090000.0
+Data Scientist,3.5,Masters,Finance,Delhi,998000.0
+NLP Engineer,2.2,PhD,Manufacturing,Chennai,1016000.0
+Data Scientist,13.1,Bachelors,Healthcare,Delhi,1892000.0
+MLOps Engineer,4.7,PhD,Education,Mumbai,1366000.0
+Machine Learning Engineer,2.1,Bachelors,Manufacturing,Bangalore,586000.0
+Data Analyst,13.9,Masters,IT,Pune,2547000.0
+Data Scientist,2.9,PhD,Retail,Delhi,974000.0
+Machine Learning Engineer,5.7,PhD,Education,Hyderabad,1453000.0
+Data Analyst,3.6,PhD,Education,Delhi,1247000.0
+Computer Vision Engineer,11.7,Masters,Retail,Delhi,1834000.0
+Business Intelligence Analyst,9.9,PhD,Healthcare,Pune,1969000.0
+Big Data Engineer,6.1,Masters,Retail,Delhi,1415000.0
+Business Intelligence Analyst,12.9,Masters,IT,Remote,1786000.0
+Software Engineer,3.9,Bachelors,Manufacturing,Delhi,847000.0
+Big Data Engineer,0.7,Masters,Finance,Bangalore,744000.0
+Data Scientist,10.8,Masters,Finance,Chennai,1800000.0
+NLP Engineer,14.7,PhD,Education,Pune,2808000.0
+Machine Learning Engineer,10.9,Bachelors,Education,Hyderabad,1334000.0
+NLP Engineer,10.2,PhD,Retail,Mumbai,1731000.0
+Software Engineer,8.7,PhD,Education,Hyderabad,1793000.0
+MLOps Engineer,8.3,PhD,Finance,Chennai,1678000.0
+Computer Vision Engineer,8.4,PhD,Manufacturing,Chennai,1759000.0
+Business Intelligence Analyst,7.2,Masters,Healthcare,Mumbai,1457000.0
+Big Data Engineer,9.7,Masters,Education,Pune,1710000.0
+Business Intelligence Analyst,4.4,PhD,Manufacturing,Delhi,1193000.0
+Software Engineer,1.9,Bachelors,IT,Chennai,559000.0
+MLOps Engineer,2.9,Bachelors,Finance,Chennai,866000.0
+NLP Engineer,1.5,PhD,Manufacturing,Pune,989000.0
+NLP Engineer,6.9,Bachelors,Manufacturing,Pune,1185000.0
+Data Scientist,8.2,PhD,Education,Hyderabad,1375000.0
+MLOps Engineer,3.2,Bachelors,IT,Delhi,799000.0
+Data Analyst,2.2,Bachelors,IT,Delhi,640000.0
+Software Engineer,1.4,Masters,Manufacturing,Hyderabad,761000.0
+AI Researcher,7.3,Bachelors,Manufacturing,Mumbai,1099000.0
+Big Data Engineer,6.3,PhD,Manufacturing,Delhi,1550000.0
+Business Intelligence Analyst,14.9,PhD,Healthcare,Pune,2791000.0
+NLP Engineer,15.0,Masters,Retail,Hyderabad,2389000.0
+Data Scientist,0.6,PhD,Manufacturing,Mumbai,875000.0
+Business Intelligence Analyst,14.0,PhD,Education,Delhi,2552000.0
+Computer Vision Engineer,14.3,Masters,Manufacturing,Chennai,2396000.0
+AI Researcher,9.9,Bachelors,Healthcare,Bangalore,1694000.0
+MLOps Engineer,12.1,Masters,Retail,Remote,1939000.0
+NLP Engineer,14.8,Bachelors,Retail,Chennai,2481000.0
+AI Researcher,10.6,Masters,Manufacturing,Delhi,2027000.0
+Computer Vision Engineer,12.1,Bachelors,Manufacturing,Hyderabad,1695000.0
+Data Analyst,8.8,Masters,Manufacturing,Bangalore,1612000.0
+AI Researcher,3.0,Bachelors,Retail,Pune,712000.0
+Computer Vision Engineer,6.4,Bachelors,Manufacturing,Chennai,1160000.0
+Machine Learning Engineer,12.1,Masters,Finance,Remote,1801000.0
+MLOps Engineer,10.2,Masters,IT,Pune,1956000.0
+Computer Vision Engineer,11.1,Bachelors,Healthcare,Delhi,1740000.0
+Data Analyst,6.5,Masters,Retail,Chennai,1427000.0
+Computer Vision Engineer,2.6,Bachelors,Manufacturing,Bangalore,762000.0
+Computer Vision Engineer,6.9,Bachelors,Finance,Chennai,1531000.0
+Data Analyst,4.4,Bachelors,Healthcare,Hyderabad,1036000.0
+Machine Learning Engineer,4.3,Masters,Finance,Chennai,1328000.0
+Computer Vision Engineer,10.5,PhD,Finance,Bangalore,2182000.0
+AI Researcher,14.3,Bachelors,Education,Remote,2104000.0
+MLOps Engineer,12.6,PhD,Manufacturing,Bangalore,1864000.0
+Computer Vision Engineer,7.1,Bachelors,Education,Remote,1121000.0
+Machine Learning Engineer,5.0,PhD,Manufacturing,Pune,1297000.0
+Software Engineer,7.8,Bachelors,Finance,Remote,1673000.0
+Software Engineer,13.1,Masters,Retail,Chennai,2251000.0
+NLP Engineer,6.7,Masters,IT,Remote,1496000.0
+Data Scientist,12.0,Masters,Healthcare,Chennai,1845000.0
+AI Researcher,13.5,Bachelors,IT,Delhi,1905000.0
+Data Scientist,1.2,Masters,Retail,Chennai,640000.0
+Machine Learning Engineer,13.8,PhD,Manufacturing,Pune,2349000.0
+Machine Learning Engineer,13.2,Masters,Finance,Mumbai,1890000.0
+Software Engineer,10.5,Bachelors,IT,Bangalore,1762000.0
+Business Intelligence Analyst,13.1,Bachelors,Manufacturing,Remote,2149000.0
+NLP Engineer,1.0,Bachelors,Education,Pune,379000.0
+Data Analyst,12.3,PhD,Healthcare,Mumbai,2065000.0
+Business Intelligence Analyst,1.8,Masters,Healthcare,Mumbai,833000.0
+Machine Learning Engineer,13.5,PhD,Education,Hyderabad,2123000.0
+Business Intelligence Analyst,6.7,PhD,Manufacturing,Remote,1480000.0
+AI Researcher,6.8,Masters,Retail,Mumbai,1481000.0
+Software Engineer,11.5,Masters,IT,Hyderabad,1633000.0
+Software Engineer,1.5,Masters,Manufacturing,Mumbai,696000.0
+Software Engineer,5.6,PhD,Manufacturing,Chennai,1544000.0
+Big Data Engineer,7.5,Bachelors,Manufacturing,Pune,1391000.0
+Data Analyst,4.4,Bachelors,Healthcare,Hyderabad,1151000.0
+Big Data Engineer,7.8,PhD,Education,Hyderabad,1708000.0
+Data Scientist,1.0,Masters,Education,Hyderabad,640000.0
+MLOps Engineer,2.3,PhD,Education,Chennai,1022000.0
+Computer Vision Engineer,10.2,PhD,Education,Hyderabad,1730000.0
+Data Analyst,13.1,Masters,Manufacturing,Delhi,2451000.0
+Data Scientist,1.2,PhD,Retail,Chennai,911000.0
+Software Engineer,4.2,Bachelors,Education,Mumbai,970000.0
+MLOps Engineer,10.8,Bachelors,IT,Chennai,1796000.0
+MLOps Engineer,5.7,Bachelors,Finance,Hyderabad,1090000.0
+AI Researcher,4.9,Bachelors,IT,Pune,985000.0
+Big Data Engineer,6.9,Bachelors,Finance,Mumbai,1217000.0
+Data Analyst,9.9,PhD,Education,Delhi,1917000.0
+Data Scientist,2.6,Bachelors,Education,Bangalore,699000.0
+AI Researcher,3.4,Masters,Finance,Remote,945000.0
+Business Intelligence Analyst,6.4,PhD,IT,Remote,1543000.0
+Machine Learning Engineer,11.7,Bachelors,Healthcare,Mumbai,2167000.0
+AI Researcher,2.1,Masters,IT,Remote,843000.0
+Data Analyst,12.0,Masters,Healthcare,Mumbai,1969000.0
+Business Intelligence Analyst,7.8,PhD,IT,Hyderabad,1419000.0
+Machine Learning Engineer,2.5,Masters,Manufacturing,Delhi,935000.0
+NLP Engineer,6.1,Bachelors,Education,Remote,817000.0
+Software Engineer,7.2,Masters,Retail,Delhi,1215000.0
+AI Researcher,8.9,PhD,Retail,Chennai,2060000.0
+NLP Engineer,2.7,Masters,Manufacturing,Pune,905000.0
+Data Scientist,9.9,Bachelors,Manufacturing,Hyderabad,1802000.0
+NLP Engineer,9.0,PhD,Finance,Mumbai,1869000.0
+NLP Engineer,5.0,Bachelors,IT,Mumbai,776000.0
+Data Scientist,5.5,PhD,Education,Mumbai,1400000.0
+Machine Learning Engineer,8.2,PhD,IT,Pune,1627000.0
+Data Scientist,13.6,Bachelors,Manufacturing,Delhi,2374000.0
+Big Data Engineer,11.8,Bachelors,Healthcare,Mumbai,1640000.0
+Computer Vision Engineer,9.2,Bachelors,Manufacturing,Pune,1415000.0
+Data Scientist,3.6,Bachelors,Manufacturing,Chennai,740000.0
+Machine Learning Engineer,4.7,Masters,Healthcare,Bangalore,1293000.0
+Machine Learning Engineer,8.1,Masters,Retail,Delhi,1674000.0
+Business Intelligence Analyst,13.2,PhD,Education,Bangalore,2250000.0
+Machine Learning Engineer,1.2,Masters,Manufacturing,Hyderabad,709000.0
+Data Scientist,8.1,Masters,Manufacturing,Remote,1546000.0
+AI Researcher,6.2,PhD,Education,Hyderabad,1353000.0
+Software Engineer,5.9,Bachelors,Healthcare,Mumbai,1067000.0
+Computer Vision Engineer,3.7,PhD,Education,Mumbai,1299000.0
+Big Data Engineer,9.3,Bachelors,IT,Chennai,1663000.0
+Computer Vision Engineer,2.4,Bachelors,Education,Bangalore,620000.0
+Data Scientist,6.3,Bachelors,Retail,Chennai,1146000.0
+MLOps Engineer,9.7,Bachelors,Finance,Remote,1554000.0
+Data Analyst,2.3,Masters,Education,Mumbai,798000.0
+Machine Learning Engineer,12.0,Masters,Finance,Mumbai,2114000.0
+Big Data Engineer,7.3,PhD,Education,Mumbai,1706000.0
+Business Intelligence Analyst,3.9,Masters,Retail,Pune,986000.0
+Machine Learning Engineer,6.9,PhD,Manufacturing,Hyderabad,1360000.0
+Machine Learning Engineer,14.5,Masters,Education,Pune,2605000.0
+NLP Engineer,8.5,Bachelors,Education,Mumbai,1345000.0
+Machine Learning Engineer,7.2,Bachelors,Finance,Mumbai,1458000.0
+Software Engineer,5.9,Masters,Finance,Pune,1426000.0
+Machine Learning Engineer,2.8,Masters,IT,Delhi,929000.0
+Machine Learning Engineer,11.9,PhD,Education,Bangalore,1854000.0
+Business Intelligence Analyst,9.8,Bachelors,Manufacturing,Bangalore,1381000.0
+Business Intelligence Analyst,1.5,Bachelors,Healthcare,Mumbai,618000.0
+AI Researcher,10.1,Bachelors,Manufacturing,Delhi,1879000.0
+Business Intelligence Analyst,3.1,Bachelors,Healthcare,Chennai,752000.0
+Machine Learning Engineer,9.3,PhD,Education,Mumbai,1718000.0
+Computer Vision Engineer,9.8,Bachelors,Education,Mumbai,1230000.0
+AI Researcher,11.3,Bachelors,Healthcare,Hyderabad,2060000.0
+Software Engineer,10.7,Masters,Manufacturing,Mumbai,1805000.0
+NLP Engineer,4.2,Bachelors,Education,Mumbai,752000.0
+Software Engineer,4.2,Masters,Finance,Delhi,1304000.0
+Data Scientist,12.8,Bachelors,Education,Hyderabad,1635000.0
+Software Engineer,4.3,PhD,Healthcare,Mumbai,1415000.0
+Data Scientist,1.9,Masters,Manufacturing,Mumbai,858000.0
+Business Intelligence Analyst,1.0,PhD,Education,Bangalore,800000.0
+Computer Vision Engineer,7.7,Bachelors,Healthcare,Pune,1482000.0
+Data Analyst,12.0,Bachelors,Education,Bangalore,1617000.0
+Computer Vision Engineer,13.0,Bachelors,Retail,Bangalore,1599000.0
+Data Scientist,3.1,Masters,Manufacturing,Pune,1041000.0
+Machine Learning Engineer,3.1,Masters,Retail,Remote,926000.0
+Computer Vision Engineer,10.0,Bachelors,Retail,Bangalore,1428000.0
+AI Researcher,14.9,Bachelors,Manufacturing,Remote,1743000.0
+MLOps Engineer,4.2,PhD,Retail,Bangalore,1224000.0
+Machine Learning Engineer,14.8,Masters,IT,Chennai,2192000.0
+Data Scientist,5.4,Masters,Education,Pune,1282000.0
+AI Researcher,5.1,Masters,Retail,Chennai,1110000.0
+Big Data Engineer,12.8,Masters,Retail,Mumbai,2411000.0
+Software Engineer,13.1,Bachelors,Finance,Bangalore,1993000.0
+Business Intelligence Analyst,3.0,PhD,Finance,Delhi,1253000.0
+Big Data Engineer,9.8,Masters,Manufacturing,Pune,1649000.0
+MLOps Engineer,5.5,PhD,IT,Hyderabad,1448000.0
+Computer Vision Engineer,9.1,PhD,Retail,Mumbai,1754000.0
+Computer Vision Engineer,1.8,Masters,Finance,Remote,930000.0
+Software Engineer,7.4,Masters,Manufacturing,Pune,1294000.0
+MLOps Engineer,8.7,Bachelors,Healthcare,Bangalore,1234000.0
+Machine Learning Engineer,13.4,Bachelors,Healthcare,Mumbai,1823000.0
+Software Engineer,1.1,PhD,Retail,Hyderabad,848000.0
+Big Data Engineer,6.4,PhD,Education,Pune,1543000.0
+Data Scientist,5.0,Bachelors,Healthcare,Bangalore,1144000.0
+Data Scientist,12.6,Masters,IT,Hyderabad,2014000.0
+NLP Engineer,2.2,PhD,Retail,Bangalore,1080000.0
+Big Data Engineer,7.7,Masters,Education,Bangalore,1343000.0
+Machine Learning Engineer,10.4,Masters,IT,Bangalore,1675000.0
+MLOps Engineer,5.7,Bachelors,Finance,Pune,1273000.0
+AI Researcher,13.1,PhD,Finance,Pune,2077000.0
+Business Intelligence Analyst,15.0,Bachelors,Healthcare,Remote,2612000.0
+AI Researcher,7.5,Masters,Healthcare,Remote,1531000.0
+NLP Engineer,12.8,Masters,Education,Pune,2287000.0
+NLP Engineer,11.8,Bachelors,Finance,Hyderabad,2215000.0
+MLOps Engineer,7.5,PhD,Manufacturing,Mumbai,1834000.0
+AI Researcher,11.7,PhD,Finance,Mumbai,2354000.0
+MLOps Engineer,4.3,Bachelors,Healthcare,Bangalore,938000.0
+Business Intelligence Analyst,13.3,Bachelors,Healthcare,Pune,2037000.0
+Computer Vision Engineer,14.8,Bachelors,Manufacturing,Hyderabad,2489000.0
+Data Analyst,3.1,Masters,Retail,Bangalore,829000.0
+Software Engineer,4.7,Masters,Manufacturing,Mumbai,1031000.0
+NLP Engineer,11.2,PhD,IT,Pune,2062000.0
+AI Researcher,5.9,PhD,Retail,Chennai,1352000.0
+Computer Vision Engineer,9.6,Masters,Education,Mumbai,1582000.0
+Business Intelligence Analyst,13.6,Bachelors,Retail,Remote,1475000.0
+Big Data Engineer,4.2,PhD,Retail,Pune,1151000.0
+Data Scientist,4.7,Bachelors,Healthcare,Delhi,868000.0
+NLP Engineer,6.0,Masters,Education,Hyderabad,1064000.0
+Data Scientist,1.5,Bachelors,Manufacturing,Delhi,594000.0
+Data Scientist,7.9,PhD,IT,Mumbai,1732000.0
+AI Researcher,3.8,Bachelors,IT,Bangalore,903000.0
+Data Scientist,6.7,Bachelors,IT,Chennai,1079000.0
+Machine Learning Engineer,4.0,Bachelors,Education,Hyderabad,940000.0
+Big Data Engineer,12.8,Bachelors,Education,Remote,1550000.0
+Software Engineer,13.0,Bachelors,Manufacturing,Remote,1568000.0
+Big Data Engineer,4.5,PhD,Retail,Pune,1367000.0
+Data Scientist,4.8,PhD,IT,Delhi,1386000.0
+Machine Learning Engineer,13.2,PhD,Manufacturing,Delhi,2403000.0
+Data Analyst,10.0,Masters,Healthcare,Mumbai,1698000.0
+Business Intelligence Analyst,13.0,Bachelors,Healthcare,Bangalore,2064000.0
+Business Intelligence Analyst,12.2,Bachelors,Manufacturing,Hyderabad,1743000.0
+NLP Engineer,5.5,PhD,Retail,Remote,1237000.0
+Big Data Engineer,1.7,Bachelors,Healthcare,Hyderabad,671000.0
+Data Scientist,4.8,Masters,Education,Pune,1017000.0
+Software Engineer,10.4,PhD,Healthcare,Mumbai,2145000.0
+Business Intelligence Analyst,10.7,PhD,Manufacturing,Hyderabad,2258000.0
+MLOps Engineer,5.9,Bachelors,IT,Chennai,1195000.0
+Data Analyst,14.5,Bachelors,Healthcare,Remote,2226000.0
+NLP Engineer,11.6,PhD,Education,Hyderabad,1843000.0
+AI Researcher,7.3,PhD,Manufacturing,Chennai,1692000.0
+MLOps Engineer,2.2,Masters,Retail,Hyderabad,826000.0
+Data Analyst,7.0,Masters,Healthcare,Pune,1504000.0
+Computer Vision Engineer,9.5,PhD,Manufacturing,Pune,1853000.0
+Software Engineer,3.2,Bachelors,Education,Delhi,643000.0
+AI Researcher,3.0,Masters,Healthcare,Bangalore,876000.0
+Data Analyst,14.2,Bachelors,Healthcare,Bangalore,1615000.0
+Data Analyst,11.7,PhD,IT,Delhi,1823000.0
+Computer Vision Engineer,11.3,PhD,Manufacturing,Bangalore,2017000.0
+MLOps Engineer,0.9,Bachelors,IT,Mumbai,520000.0
+Data Scientist,10.8,Masters,Manufacturing,Delhi,1880000.0
+Data Scientist,13.2,PhD,Manufacturing,Mumbai,1975000.0
+Big Data Engineer,14.4,Bachelors,Manufacturing,Hyderabad,2267000.0
+NLP Engineer,1.6,Masters,Education,Chennai,722000.0
+NLP Engineer,11.1,PhD,Healthcare,Hyderabad,1911000.0
+Machine Learning Engineer,9.6,Masters,Finance,Bangalore,2076000.0
+Data Analyst,10.0,Masters,Retail,Hyderabad,1682000.0
+NLP Engineer,10.9,Bachelors,Retail,Delhi,1654000.0
+Big Data Engineer,13.0,Masters,Finance,Bangalore,2365000.0
+NLP Engineer,6.7,Bachelors,Manufacturing,Remote,1098000.0
+Data Analyst,9.3,Bachelors,Finance,Hyderabad,1801000.0
+AI Researcher,10.7,PhD,Finance,Mumbai,2378000.0
+MLOps Engineer,4.4,PhD,Finance,Chennai,1361000.0
+Data Scientist,7.4,Bachelors,Retail,Delhi,1400000.0
+Computer Vision Engineer,9.7,PhD,Retail,Hyderabad,1877000.0
+Data Scientist,6.4,PhD,Manufacturing,Mumbai,1616000.0
+AI Researcher,14.3,Bachelors,Education,Mumbai,1834000.0
+Data Analyst,7.2,Bachelors,Healthcare,Remote,1377000.0
+Computer Vision Engineer,0.7,PhD,IT,Hyderabad,925000.0
+Business Intelligence Analyst,7.0,PhD,Retail,Pune,1728000.0
+MLOps Engineer,12.2,Masters,Retail,Pune,2273000.0
+Business Intelligence Analyst,13.1,Bachelors,Retail,Chennai,1455000.0
+Computer Vision Engineer,10.5,Masters,Finance,Remote,1909000.0
+MLOps Engineer,11.0,Masters,Education,Chennai,1953000.0
+MLOps Engineer,3.0,Bachelors,IT,Bangalore,840000.0
+Data Analyst,13.2,PhD,Healthcare,Mumbai,2144000.0
+AI Researcher,11.2,Bachelors,Manufacturing,Pune,1547000.0
+Business Intelligence Analyst,11.8,Bachelors,Retail,Pune,1362000.0
+Software Engineer,8.2,PhD,Education,Delhi,1957000.0
+Data Scientist,12.8,Bachelors,Education,Delhi,1376000.0
+NLP Engineer,12.8,Bachelors,Retail,Chennai,2263000.0
+Data Analyst,7.5,PhD,Education,Delhi,1558000.0
+Computer Vision Engineer,2.2,Bachelors,Healthcare,Chennai,766000.0
+Data Analyst,10.7,Masters,Education,Pune,1558000.0
+Data Scientist,14.2,Masters,Retail,Hyderabad,2253000.0
+Business Intelligence Analyst,14.1,Bachelors,Retail,Pune,1782000.0
+MLOps Engineer,1.0,PhD,Education,Bangalore,882000.0
+Software Engineer,12.5,PhD,Healthcare,Hyderabad,2101000.0
+Data Analyst,12.3,Bachelors,Finance,Pune,2034000.0
+Machine Learning Engineer,4.4,Bachelors,IT,Delhi,1021000.0
+Business Intelligence Analyst,2.6,Bachelors,Healthcare,Hyderabad,787000.0
+AI Researcher,2.4,PhD,Education,Chennai,1089000.0
+Computer Vision Engineer,14.2,Masters,Manufacturing,Remote,1699000.0
+MLOps Engineer,9.6,Masters,Finance,Bangalore,1564000.0
+Software Engineer,6.5,PhD,IT,Hyderabad,1508000.0
+Business Intelligence Analyst,4.1,Bachelors,IT,Mumbai,872000.0
+Machine Learning Engineer,9.9,PhD,Retail,Chennai,1767000.0
+Computer Vision Engineer,4.4,Bachelors,IT,Mumbai,939000.0
+Computer Vision Engineer,3.3,Bachelors,Healthcare,Bangalore,798000.0
+Big Data Engineer,5.7,Bachelors,Finance,Mumbai,1240000.0
+Business Intelligence Analyst,4.6,Masters,IT,Bangalore,1190000.0
+AI Researcher,12.2,PhD,Retail,Remote,2598000.0
+Software Engineer,4.6,PhD,Finance,Bangalore,1369000.0
+Big Data Engineer,12.3,PhD,Education,Remote,2206000.0
+Data Scientist,12.3,Masters,Retail,Hyderabad,2074000.0
+NLP Engineer,1.9,Masters,Retail,Delhi,797000.0
+AI Researcher,10.1,PhD,Retail,Delhi,2091000.0
+AI Researcher,1.0,Bachelors,Finance,Hyderabad,675000.0
+Machine Learning Engineer,12.9,Bachelors,Education,Hyderabad,1874000.0
+Business Intelligence Analyst,3.7,PhD,IT,Hyderabad,1097000.0
+Data Scientist,11.9,Masters,Education,Delhi,2013000.0
+Data Analyst,1.7,PhD,IT,Delhi,962000.0
+Computer Vision Engineer,12.9,Bachelors,IT,Mumbai,2177000.0
+AI Researcher,2.4,Masters,IT,Chennai,948000.0
+Software Engineer,14.3,Bachelors,Healthcare,Bangalore,2206000.0
+Computer Vision Engineer,7.5,Bachelors,Finance,Mumbai,1463000.0
+Computer Vision Engineer,14.2,PhD,Education,Mumbai,2390000.0
+Business Intelligence Analyst,8.4,PhD,Education,Bangalore,1527000.0
+NLP Engineer,9.7,Masters,Manufacturing,Mumbai,1940000.0
+Data Analyst,8.0,PhD,Healthcare,Pune,1497000.0
+Machine Learning Engineer,12.6,PhD,Manufacturing,Hyderabad,2635000.0
+Software Engineer,10.7,Masters,IT,Chennai,1519000.0
+Computer Vision Engineer,5.2,Bachelors,Healthcare,Remote,1186000.0
+Big Data Engineer,9.1,Bachelors,Healthcare,Bangalore,1483000.0
+Software Engineer,1.2,Bachelors,Manufacturing,Chennai,503000.0
+Computer Vision Engineer,6.7,Masters,Finance,Bangalore,1621000.0
+Software Engineer,10.3,PhD,Manufacturing,Delhi,2018000.0
+Computer Vision Engineer,9.7,Masters,Healthcare,Pune,1650000.0
+Business Intelligence Analyst,2.4,Bachelors,Education,Hyderabad,537000.0
+Business Intelligence Analyst,2.2,PhD,Education,Remote,954000.0
+Data Scientist,8.2,Masters,Healthcare,Hyderabad,1651000.0
+Computer Vision Engineer,9.2,Bachelors,Education,Remote,1436000.0
+Business Intelligence Analyst,1.6,Masters,IT,Delhi,784000.0
+Business Intelligence Analyst,13.0,Bachelors,IT,Delhi,2190000.0
+Big Data Engineer,14.2,PhD,Education,Delhi,2198000.0
+Data Scientist,15.0,PhD,Healthcare,Remote,2074000.0
+Business Intelligence Analyst,6.3,Masters,Healthcare,Bangalore,1228000.0
+Machine Learning Engineer,13.3,PhD,Healthcare,Hyderabad,2821000.0
+Business Intelligence Analyst,1.7,Masters,Healthcare,Hyderabad,860000.0
+Data Analyst,2.4,Bachelors,IT,Chennai,600000.0
+Business Intelligence Analyst,14.9,Masters,Retail,Hyderabad,2722000.0
+NLP Engineer,6.4,Masters,Education,Bangalore,1402000.0
+NLP Engineer,9.4,Masters,Healthcare,Delhi,1411000.0
+NLP Engineer,9.9,PhD,Education,Pune,1570000.0
+Business Intelligence Analyst,3.3,Masters,Education,Mumbai,855000.0
+Data Scientist,2.1,Bachelors,Retail,Bangalore,627000.0
+AI Researcher,10.6,PhD,Finance,Hyderabad,2105000.0
+Business Intelligence Analyst,2.7,PhD,Finance,Chennai,1243000.0
+AI Researcher,7.7,Masters,Education,Remote,1430000.0
+Data Scientist,4.4,Bachelors,IT,Mumbai,884000.0
+MLOps Engineer,4.9,Bachelors,Manufacturing,Delhi,817000.0
+MLOps Engineer,9.5,Bachelors,IT,Delhi,1143000.0
+Data Scientist,14.1,Bachelors,Education,Remote,2192000.0
+Computer Vision Engineer,5.4,PhD,Education,Remote,1406000.0
+AI Researcher,5.5,Masters,Healthcare,Chennai,1194000.0
+Software Engineer,13.7,Masters,Retail,Mumbai,2582000.0
+Machine Learning Engineer,7.6,Masters,Healthcare,Hyderabad,1769000.0
+MLOps Engineer,6.0,PhD,Healthcare,Mumbai,1462000.0
+Data Analyst,13.1,Bachelors,Healthcare,Remote,2050000.0
+Computer Vision Engineer,8.4,Masters,IT,Chennai,1409000.0
+Business Intelligence Analyst,1.0,Bachelors,Manufacturing,Chennai,491000.0
+Machine Learning Engineer,14.6,Bachelors,IT,Delhi,1813000.0
+Data Scientist,12.9,Masters,Finance,Bangalore,2538000.0
+AI Researcher,1.9,Bachelors,IT,Mumbai,698000.0
+AI Researcher,2.7,Masters,Healthcare,Hyderabad,1001000.0
+MLOps Engineer,4.5,PhD,IT,Chennai,1400000.0
+Big Data Engineer,5.3,Masters,Retail,Chennai,1218000.0
+NLP Engineer,4.7,Bachelors,Manufacturing,Chennai,926000.0
+Data Analyst,7.1,Bachelors,Retail,Remote,1042000.0
+Big Data Engineer,13.2,Bachelors,IT,Bangalore,1616000.0
+Business Intelligence Analyst,13.9,Masters,Education,Bangalore,2528000.0
+Business Intelligence Analyst,11.1,PhD,Retail,Chennai,1910000.0
+Big Data Engineer,0.7,PhD,Healthcare,Delhi,938000.0
+Big Data Engineer,7.4,PhD,Education,Bangalore,1569000.0
+Software Engineer,12.1,PhD,Retail,Mumbai,2423000.0
+Big Data Engineer,12.5,Masters,Education,Remote,2064000.0
+Computer Vision Engineer,8.2,PhD,Retail,Pune,1852000.0
+Big Data Engineer,2.8,PhD,IT,Bangalore,1237000.0
+AI Researcher,9.4,Masters,IT,Mumbai,1454000.0
+MLOps Engineer,11.0,PhD,Education,Pune,2337000.0
+Software Engineer,8.8,Masters,Retail,Mumbai,1247000.0
+Big Data Engineer,4.6,PhD,Retail,Mumbai,1303000.0
+MLOps Engineer,5.3,Bachelors,Education,Bangalore,806000.0
+Business Intelligence Analyst,7.7,PhD,Retail,Pune,1532000.0
+Computer Vision Engineer,13.1,PhD,IT,Bangalore,2467000.0
+Software Engineer,13.3,Masters,Healthcare,Chennai,2547000.0
+Software Engineer,14.6,Masters,Education,Pune,2318000.0
+Computer Vision Engineer,14.9,Bachelors,IT,Delhi,1970000.0
+Machine Learning Engineer,2.0,Masters,Retail,Remote,846000.0
+Data Analyst,6.5,Bachelors,Education,Pune,906000.0
+Data Analyst,14.4,Bachelors,IT,Mumbai,1632000.0
+MLOps Engineer,11.9,Bachelors,Retail,Delhi,1682000.0
+Machine Learning Engineer,11.4,Bachelors,Finance,Remote,2095000.0
+AI Researcher,3.5,PhD,IT,Mumbai,1132000.0
+Computer Vision Engineer,12.8,Bachelors,IT,Hyderabad,2209000.0
+Data Scientist,3.8,Bachelors,Manufacturing,Chennai,892000.0
+AI Researcher,14.1,PhD,Education,Delhi,2466000.0
+Software Engineer,12.5,PhD,Education,Hyderabad,1797000.0
+MLOps Engineer,13.1,Bachelors,Finance,Bangalore,1847000.0
+NLP Engineer,5.6,Masters,Education,Chennai,1029000.0
+Software Engineer,9.4,Masters,Retail,Hyderabad,1935000.0
+Data Analyst,10.6,Masters,Manufacturing,Bangalore,2088000.0
+Business Intelligence Analyst,9.7,Masters,Manufacturing,Pune,1571000.0
+Software Engineer,3.8,Bachelors,Finance,Hyderabad,1044000.0
+Software Engineer,14.6,Bachelors,Healthcare,Bangalore,2096000.0
+NLP Engineer,11.4,PhD,Healthcare,Bangalore,1882000.0
+AI Researcher,12.3,Bachelors,IT,Hyderabad,1933000.0
+Software Engineer,8.1,PhD,Healthcare,Remote,1840000.0
+NLP Engineer,9.0,PhD,Education,Mumbai,1803000.0
+Computer Vision Engineer,10.9,Bachelors,Retail,Bangalore,1895000.0
+Computer Vision Engineer,1.4,Masters,Retail,Bangalore,705000.0
+NLP Engineer,6.4,PhD,Retail,Hyderabad,1508000.0
+MLOps Engineer,14.1,Masters,Manufacturing,Mumbai,2514000.0
+Business Intelligence Analyst,7.8,PhD,Manufacturing,Hyderabad,1656000.0
+NLP Engineer,2.9,Bachelors,IT,Bangalore,738000.0
+Machine Learning Engineer,8.9,Masters,Healthcare,Chennai,1663000.0
+Data Analyst,9.0,Masters,Education,Chennai,1502000.0
+MLOps Engineer,4.3,Bachelors,Finance,Pune,1044000.0
+Big Data Engineer,9.2,Bachelors,Finance,Delhi,1622000.0
+AI Researcher,13.5,PhD,Finance,Delhi,2252000.0
+Computer Vision Engineer,7.1,PhD,IT,Delhi,1574000.0
+Data Analyst,13.5,Masters,Education,Mumbai,1605000.0
+Data Scientist,6.4,PhD,Healthcare,Chennai,1833000.0
+Data Scientist,1.9,Masters,Healthcare,Hyderabad,810000.0
+Software Engineer,11.2,Bachelors,Education,Delhi,1568000.0
+Data Scientist,3.4,PhD,IT,Bangalore,1310000.0
+Big Data Engineer,13.0,PhD,IT,Mumbai,2652000.0
+Business Intelligence Analyst,10.9,PhD,Education,Bangalore,1755000.0
+MLOps Engineer,1.9,Masters,IT,Pune,812000.0
+AI Researcher,12.0,PhD,Manufacturing,Hyderabad,2502000.0
+Business Intelligence Analyst,4.9,PhD,IT,Chennai,1195000.0
+Data Scientist,5.6,Masters,Healthcare,Remote,1208000.0
+Software Engineer,14.9,Bachelors,Education,Chennai,1538000.0
+Software Engineer,6.5,PhD,IT,Hyderabad,1333000.0
+Computer Vision Engineer,4.2,Masters,Finance,Chennai,1195000.0
+Business Intelligence Analyst,11.3,Masters,IT,Remote,2146000.0
+Data Analyst,10.2,PhD,Healthcare,Mumbai,2207000.0
+Computer Vision Engineer,3.7,Bachelors,Education,Delhi,931000.0
+Business Intelligence Analyst,11.8,Bachelors,Manufacturing,Bangalore,2078000.0
+Business Intelligence Analyst,13.9,Bachelors,Retail,Bangalore,1870000.0
+Data Analyst,5.6,PhD,Manufacturing,Delhi,1618000.0
+Data Analyst,13.2,Bachelors,Manufacturing,Chennai,2171000.0
+Business Intelligence Analyst,1.1,Bachelors,Manufacturing,Remote,478000.0
+Business Intelligence Analyst,6.6,Bachelors,Education,Mumbai,1100000.0
+MLOps Engineer,1.8,Masters,Finance,Delhi,888000.0
+Big Data Engineer,10.9,Bachelors,Finance,Pune,1940000.0
+Business Intelligence Analyst,9.1,Bachelors,Manufacturing,Bangalore,1588000.0
+Data Scientist,7.0,Masters,Manufacturing,Bangalore,1171000.0
+NLP Engineer,9.5,Masters,IT,Pune,1495000.0
+MLOps Engineer,11.7,PhD,Healthcare,Delhi,2401000.0
+Big Data Engineer,3.9,Bachelors,Manufacturing,Delhi,739000.0
+Data Analyst,13.3,PhD,Healthcare,Remote,2275000.0
+Software Engineer,7.8,Bachelors,Manufacturing,Mumbai,1471000.0
+Computer Vision Engineer,15.0,Bachelors,Finance,Hyderabad,2634000.0
+MLOps Engineer,8.1,PhD,Finance,Hyderabad,1552000.0
+MLOps Engineer,6.8,Masters,Retail,Remote,1299000.0
+Computer Vision Engineer,9.3,Bachelors,Finance,Pune,1425000.0
+Computer Vision Engineer,10.4,Masters,Retail,Pune,1582000.0
+AI Researcher,13.9,PhD,Retail,Mumbai,2718000.0
+Data Scientist,14.1,Masters,Retail,Mumbai,2621000.0
+Business Intelligence Analyst,5.4,Masters,Education,Delhi,1210000.0
+Machine Learning Engineer,14.1,PhD,Education,Bangalore,1893000.0
+Machine Learning Engineer,7.6,Masters,Manufacturing,Remote,1495000.0
+Data Analyst,10.7,Masters,Education,Hyderabad,1914000.0
+Data Scientist,13.6,Masters,Finance,Delhi,2737000.0
+Business Intelligence Analyst,8.2,Masters,Finance,Remote,1820000.0
+MLOps Engineer,1.3,Masters,Retail,Remote,729000.0
+Business Intelligence Analyst,5.4,PhD,Education,Mumbai,1516000.0
+Computer Vision Engineer,9.5,Bachelors,IT,Pune,1341000.0
+Data Analyst,8.3,Bachelors,IT,Pune,1197000.0
+Data Analyst,4.7,PhD,Healthcare,Chennai,1285000.0
+Computer Vision Engineer,9.6,Masters,Manufacturing,Chennai,1856000.0
+MLOps Engineer,12.3,PhD,Retail,Hyderabad,1902000.0
+Big Data Engineer,7.4,Masters,Manufacturing,Chennai,1467000.0
+Software Engineer,11.6,PhD,Education,Delhi,2301000.0
+Computer Vision Engineer,5.1,PhD,Finance,Bangalore,1448000.0
+AI Researcher,1.9,Bachelors,IT,Hyderabad,636000.0
+Data Analyst,13.6,Masters,IT,Hyderabad,2040000.0
+Big Data Engineer,8.3,PhD,Healthcare,Chennai,1571000.0
+Data Analyst,4.9,Bachelors,Finance,Delhi,1051000.0
+Computer Vision Engineer,8.0,PhD,Finance,Pune,1899000.0
+AI Researcher,8.5,PhD,IT,Delhi,1526000.0
+Data Analyst,2.1,Bachelors,Retail,Chennai,539000.0
+Data Scientist,5.5,PhD,Manufacturing,Mumbai,1556000.0
+Data Analyst,6.2,Bachelors,Healthcare,Bangalore,925000.0
